@@ -35,6 +35,10 @@
   - 自主學習耗時記錄、計算
   - 自動撰寫 VIM - 增加圖片、圖片註解
   - 自傳撰寫筆記 metadata
+- ### _Emily 與 UiPath/PowerAutomation/IBM RPA 產品比較_
+  - Jerry 晨會解說
+  - IBM 產品介紹
+  - PowerAutomation YTB 介紹
 - ### _貢獻 Emily 社群活躍度 (2 問題、4 回覆)_
 - ### _問題發掘_
   - DA 與連線加密問題
